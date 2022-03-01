@@ -1,2 +1,2 @@
 # HospitalManagementSystem
-This is a complete cospital management system with vb.net.
+This is a complete hospital management system with vb.net.
